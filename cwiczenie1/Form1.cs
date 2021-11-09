@@ -34,7 +34,7 @@ namespace cwiczenie1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            label2.Text = label2.Text.ToString() + " ty chuju!";
+            label2.Text = label2.Text.ToString() + " ty chuju złamany!";
         }
 
         private void button3_Click(object sender, EventArgs e)
