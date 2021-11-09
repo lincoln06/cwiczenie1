@@ -1,0 +1,16 @@
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\bin\Debug\netcoreapp3.1\cwiczenie1.exe
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\bin\Debug\netcoreapp3.1\cwiczenie1.deps.json
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\bin\Debug\netcoreapp3.1\cwiczenie1.runtimeconfig.json
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\bin\Debug\netcoreapp3.1\cwiczenie1.runtimeconfig.dev.json
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\bin\Debug\netcoreapp3.1\cwiczenie1.dll
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\bin\Debug\netcoreapp3.1\cwiczenie1.pdb
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\obj\Debug\netcoreapp3.1\cwiczenie1.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\obj\Debug\netcoreapp3.1\cwiczenie1.Form1.resources
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\obj\Debug\netcoreapp3.1\cwiczenie1.csproj.GenerateResource.cache
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\obj\Debug\netcoreapp3.1\cwiczenie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\obj\Debug\netcoreapp3.1\cwiczenie1.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\obj\Debug\netcoreapp3.1\cwiczenie1.AssemblyInfo.cs
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\obj\Debug\netcoreapp3.1\cwiczenie1.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\obj\Debug\netcoreapp3.1\cwiczenie1.dll
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\obj\Debug\netcoreapp3.1\cwiczenie1.pdb
+C:\Users\macie\source\repos\cwiczenie1\cwiczenie1\obj\Debug\netcoreapp3.1\cwiczenie1.genruntimeconfig.cache
